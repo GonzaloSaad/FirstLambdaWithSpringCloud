@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-function-web:1.0.0.RC2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-function-web/1.0.0.RC2/4613bea38bd5d98bb5eaffa8df857c2127ec6e80/spring-cloud-function-web-1.0.0.RC2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-function-web/1.0.0.RC2/8758794d6b114c07deed4d6ace968d97730c16f4/spring-cloud-function-web-1.0.0.RC2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

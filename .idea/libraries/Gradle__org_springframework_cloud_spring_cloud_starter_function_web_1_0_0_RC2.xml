@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-starter-function-web:1.0.0.RC2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-function-web/1.0.0.RC2/8c3032eef677ac992b0071943a6b3b926c106610/spring-cloud-starter-function-web-1.0.0.RC2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-function-web/1.0.0.RC2/41be04d4b951d8b50448edf676df6d43ec15a180/spring-cloud-starter-function-web-1.0.0.RC2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
